@@ -1,2 +1,2 @@
-# soccer_analysis
+# Soccer Analysis
 Amazing goal trends
